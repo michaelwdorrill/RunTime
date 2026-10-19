@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RunTime</string>
+    <string name="service_name">RunTime video guard</string>
+    <string name="service_description">RunTime examines YouTube interface controls on your device to recognize Shorts and block video-navigation swipes. It handles allowed taps and seeking on your behalf. Other apps are identified only to release the guard. Interface content is not uploaded or recorded. This experimental build supports YouTube Shorts only. You can disable it at any time in RunTime or here.</string>
+</resources>
